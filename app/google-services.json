@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439565808026",
+    "project_id": "book-read-8d24d",
+    "storage_bucket": "book-read-8d24d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439565808026:android:32559292523ca614034a23",
+        "android_client_info": {
+          "package_name": "com.example.bookread"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpKPCq2yrwBsd8VxFY6xi_x25odx4LXa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
